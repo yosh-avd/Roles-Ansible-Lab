@@ -1,0 +1,5 @@
+---
+# vars file for ec2
+
+type: t2.small
+
